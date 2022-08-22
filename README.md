@@ -43,9 +43,9 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `apt install proot-distro`
 
-`proot-distro install ubuntu`
+`proot-distro install debian`
 
-`proot-distro login ubuntu`
+`proot-distro login debian`
 
 `apt-get update && apt-get install git python3 python3-pip`
 
