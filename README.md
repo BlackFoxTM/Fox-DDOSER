@@ -1,11 +1,38 @@
-# FoxDoser
-This script can DDOS as Layer 7 GET &amp; POST Method , Fast And Easy , PowerFul Doser Tool !
+# Fox-DDOSER
+This Script it has a lot of methods in layer 7 and layer 4 
 
-## Feature :
+## Layer 7 :
 
-> Layer 7 GET & POST 
+> ~ GET 
 
-> Easy to Use !
+> ~ POST
+
+> ~ PUT 
+
+> ~ HEAD
+
+> ~ OPTIONS
+## Layer 4 :
+
+> ~ Ping OF Death 
+
+> ~ Syn attack
+
+> ~ Malformed attack
+
+> ~ Land (Designed For Microsoft Windows !)
+
+> ~ nestea 
+
+> ~ arp flood
+
+> ~ dns attack
+
+> ~ teardrop attack
+
+> ~ tcp attack
+
+> ~ udp attack
 
 
 ## requirements : 
@@ -16,13 +43,13 @@ This script can DDOS as Layer 7 GET &amp; POST Method , Fast And Easy , PowerFul
 
 `apt intall python3 python3-pip`
 
-`git clone https://github.com/BlackFoxTM/FoxDoser`
+`git clone https://github.com/BlackFoxTM/Fox-DDOSER`
 
-`cd FoxDoser`
+`cd Fox-DDOSER`
 
 `pip3 install -r requirements.txt`
 
-`python3 main.py`
+`python3 fox-ddos.py`
 
 
 ### Telegram Channel : [Channel](https://t.me/BlackFoxSecurityTeam)
