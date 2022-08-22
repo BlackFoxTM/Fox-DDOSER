@@ -1,2 +1,6 @@
+scapy
+rainbowtext
+requests
 colorama
-requests 
+pyfiglet
+pyuseragents
