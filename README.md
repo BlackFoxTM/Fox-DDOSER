@@ -39,9 +39,15 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 > python 3.x to Higher 
 
-# Installation 
+# Installation-termux : 
 
-`apt intall python3 python3-pip`
+`apt install proot-distro`
+
+`proot-distro install ubuntu`
+
+`proot-distro login ubuntu`
+
+`apt-get update && apt-get install git python3 python3-pip`
 
 `git clone https://github.com/BlackFoxTM/Fox-DDOSER`
 
@@ -50,6 +56,24 @@ This Script it has a lot of methods in layer 7 and layer 4
 `pip3 install -r requirements.txt`
 
 `python3 fox-ddos.py`
+
+#Insatallation-Linux : 
+
+`apt update && apt install git python3 python3-pip`
+
+`git clone https://github.com/BlackFoxTM/Fox-DDOSER`
+
+`cd Fox-DDOSER`
+
+`pip3 install -r requiremnets.txt`
+
+`sudo python3 fox-ddos.py`
+
+###==============================
+
+# Note :
+> On the Termux You can't run as normally , you should install proot-distro to run as root !
+
 
 
 ### Telegram Channel : [Channel](https://t.me/BlackFoxSecurityTeam)
