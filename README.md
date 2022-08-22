@@ -57,7 +57,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `python3 fox-ddos.py`
 
-#Insatallation-Linux : 
+# Insatallation-Linux : 
 
 `apt update && apt install git python3 python3-pip`
 
@@ -69,7 +69,7 @@ This Script it has a lot of methods in layer 7 and layer 4
 
 `sudo python3 fox-ddos.py`
 
-###==============================
+### ==============================
 
 # Note :
 > On the Termux You can't run as normally , you should install proot-distro to run as root !
